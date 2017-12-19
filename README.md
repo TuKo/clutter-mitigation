@@ -11,5 +11,5 @@ The code in this repository covers the following three papers:
 
 ## Requirements:
 Please install the Field II simulator to create the synthetic images.
-In addition you need to download the (complex OMP and k-SVD toolbox)[http://bit.ly/comptoolbox]
+In addition you need to download the [complex OMP and k-SVD toolbox](http://bit.ly/comptoolbox)
 

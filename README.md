@@ -1,1 +1,1 @@
-# clutter
+# clutter mitigation techniques

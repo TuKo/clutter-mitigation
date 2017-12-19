@@ -1,4 +1,4 @@
-# clutter mitigation techniques
+# Dictionary Learning-based Methods for Clutter Mitigation for Ultrasound Medical Imaging
 
 The code in this repository covers the following three papers:
 
